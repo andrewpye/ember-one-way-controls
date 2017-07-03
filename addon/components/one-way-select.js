@@ -79,6 +79,7 @@ const OneWaySelectComponent = Component.extend(DynamicAttributeBindings, {
 
   nothingSelected: empty('selectedValue'),
   promptIsDisabled: not('promptIsSelectable'),
+  promptIsHidden: not('promptIsSelectable'),
   hasGrouping: or('optionsArePreGrouped', 'groupLabelPath'),
   computedOptionValuePath: or('optionValuePath', 'optionTargetPath'),
 
