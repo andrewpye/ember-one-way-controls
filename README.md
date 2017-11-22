@@ -1,4 +1,7 @@
 # ember-one-way-controls ![Download count all time](https://img.shields.io/npm/dt/ember-one-way-controls.svg) [![CircleCI](https://circleci.com/gh/DockYard/ember-one-way-controls.svg?style=shield)](https://circleci.com/gh/DockYard/ember-one-way-controls) [![npm version](https://badge.fury.io/js/ember-one-way-controls.svg)](https://badge.fury.io/js/ember-one-way-controls) [![Ember Observer Score](http://emberobserver.com/badges/ember-one-way-controls.svg)](http://emberobserver.com/addons/ember-one-way-controls)
+
+**[ember-one-way-controls is built and maintained by DockYard, contact us for expert Ember.js consulting](https://dockyard.com/ember-consulting)**.
+
 *Credit: @rwjblue's [twiddle](https://gist.github.com/rwjblue/2d7246875098d0dbb4a4)*
 
 Demo: http://ember-twiddle.com/2d7246875098d0dbb4a4
@@ -53,7 +56,8 @@ __Note:__ The cursor jumping issue has been fixed in Ember since 2.3.1.
 
 ## Compatibility
 
-This addon will work on Ember versions `1.13.x` and up.
+- Version `2.x.x` of this addon will work on Ember versions `1.13.x` and up.
+- Version `3.x.x` of This addon will work on Ember versions `2.x` and up.
 
 ## Installing the addon
 
